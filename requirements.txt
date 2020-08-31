@@ -1,0 +1,7 @@
+requests
+sockets
+bs4
+urllib3
+telethon
+colorama
+asyncio
