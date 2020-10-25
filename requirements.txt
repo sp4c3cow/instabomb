@@ -5,4 +5,3 @@ urllib3
 telethon
 colorama
 asyncio
-cryptography
